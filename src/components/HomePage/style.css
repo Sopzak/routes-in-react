@@ -1,0 +1,21 @@
+.content-options{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.content-options a {
+    padding: 20px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.option-front-end{
+    background-color: #61dafb;
+    color: blue;
+}
+
+.option-back-end{
+    background-color: #43853d;
+    color: #fff
+}
